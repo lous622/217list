@@ -81,7 +81,6 @@ http://paradp.com/wp-login.php#admin@12345
 http://en.hzbotaitianyu.com/wp-login.php#admin@123456
 http://jmcpk.org/wp-login.php#jmcpk@abcd1234
 https://kevinjay.me:443//wp-login.php#admin@admin@123
-http://af0801ff5e8b111e8b0d40a749277d20-1182629996.us-west-2.elb.amazonaws.com/wp-login.php#admin@admin
 http://www.itssma.edu.pe/wp-login.php#sistemas@12345
 http://fratellibolivia.com/wp-login.php#fratellibolivia@fratellibolivia
 http://211.174.55.181/wp-login.php#test@test
@@ -126,7 +125,6 @@ http://www.plurimpresa.it/wp-login.php#giovanna@giovanna
 http://52.9.13.191/wp-login.php#cloudendure@cloudendure
 http://52.9.193.213/wp-login.php#cloudendure@cloudendure
 http://web.vzhan.vip/wp-login.php#erpadmin@admin
-http://kwasiosei-001-site9.etempurl.com/wp-login.php#admin@adminadmin
 http://www.pheromonestudio.com/wp-login.php#pheromonestudio@pheromonestudio
 http://prayinggroups.dk/wp-login.php#admin@adminadmin
 http://cala-sc.mx/wp-login.php#admin@pass
